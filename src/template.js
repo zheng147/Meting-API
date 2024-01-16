@@ -6,7 +6,7 @@ let html = `
 
 <head>
     <meta charset="utf-8">
-    <title>测试页面</title>
+    <title>测试面</title>
     <link rel="stylesheet" href="https://unpkg.com/aplayer/dist/APlayer.min.css">
 </head>
 
